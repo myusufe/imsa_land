@@ -37,3 +37,42 @@ go to this url
 ```
 https://obsproject.com/wiki/install-instructions#macos-install-directions
 ```
+
+# Directory structure
+```
+.
+├── OBS
+│   └── template
+│       ├── Agus\ Setiawan
+│       │   ├── abu-ubaidah-al-jarrah.jpeg
+│       │   └── ulumul\ hadits.jpeg
+│       ├── Agus\ Waspodo
+│       │   └── ustadz\ Agung\ Waspodo.jpeg
+│       ├── Fahmi\ Zubir
+│       │   ├── 2oktober.jpeg
+│       │   ├── Screen\ Shot\ 2020-10-02\ at\ 3.02.54\ PM.png
+│       │   └── original_flyer.jpeg
+│       ├── LD_IMSA__OBS.json
+│       ├── LD_IMSA__Ustadz_Fahmi.json
+│       ├── Moh\ Joban
+│       │   ├── OPpQis.jpg
+│       │   ├── background.png
+│       │   └── flyer.jpeg
+│       ├── background
+│       │   ├── background-1.png
+│       │   └── background-2.png
+│       ├── flyer.png
+│       ├── imsa-logo1.png
+│       ├── imsa-logo2.png
+│       ├── imsa-logo3.png
+│       ├── imsacare-logo.png
+│       ├── mp3
+│       │   └── EDCOUSTIC\ -\ 10\ LAGU\ TERBAIK\ ISLAMI\ -\ LAGU\ RELIGI\ (128\ kbps).mp3
+│       └── radio-imsa.png
+└── README.md
+```
+
+# Good References
+```
+https://streamshark.io/obs-guide/
+```
